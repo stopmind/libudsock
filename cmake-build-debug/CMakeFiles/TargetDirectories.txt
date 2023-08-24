@@ -1,7 +1,0 @@
-/home/user/Projects/libudsock/cmake-build-debug/CMakeFiles/libudsock.dir
-/home/user/Projects/libudsock/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/user/Projects/libudsock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/user/Projects/libudsock/cmake-build-debug/example/CMakeFiles/example-server.dir
-/home/user/Projects/libudsock/cmake-build-debug/example/CMakeFiles/example-client.dir
-/home/user/Projects/libudsock/cmake-build-debug/example/CMakeFiles/edit_cache.dir
-/home/user/Projects/libudsock/cmake-build-debug/example/CMakeFiles/rebuild_cache.dir
